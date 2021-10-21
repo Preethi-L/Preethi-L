@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Preethi.A pre-final year student at Panimalar Institute of Technology.
+- 👋 Hi, I’m Preethi. A pre-final year student at Panimalar Institute of Technology.
 - 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on projects related to web development.
 - 📫 How to reach me @preethi.lakshmanan20@gmail.com
