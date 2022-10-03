@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Preethi. A pre-final year student at Panimalar Institute of Technology
-- 💞️ I’m looking to collaborate on projects related to web development.
+- 👋 Hi, I’m Preethi. Final year student at Panimalar Institute of Technology
 - 📫 Reach me @preethi.lakshmanan20@gmail.com
 
 <!---
