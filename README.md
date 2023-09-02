@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Preethi. Final year student at Panimalar Institute of Technology
+- 👋 Hi, I’m Preethi. 
 - 📫 Reach me @preethi.lakshmanan20@gmail.com
 
 <!---
